@@ -6,10 +6,10 @@ angular
   .config(function ($firebaseRefProvider) {
 
     var config = {
-      apiKey: "AIzaSyCsNISt3dFx7dy5AImIIk62jDDd0OLvZK0",
-      authDomain: "contacts-manager-e486f.firebaseapp.com",
-      databaseURL: "https://contacts-manager-e486f.firebaseio.com",
-      storageBucket: "contacts-manager-e486f.appspot.com",
+      apiKey: "AIzaSyCHgv6pND2AzbyNRwmcewvSG3OQtk9wPAQ",
+      authDomain: "contacts-manager-ng1.firebaseapp.com",
+      databaseURL: "https://contacts-manager-ng1.firebaseio.com",
+      storageBucket: "contacts-manager-ng1.appspot.com",
     };
 
     $firebaseRefProvider
